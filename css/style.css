@@ -1,0 +1,339 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+html, body{
+	overflow-x: hidden;
+
+}
+body{
+	font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Grand Hotel', cursive;
+}
+a, a:hover{
+	text-decoration: none;
+}
+.title{
+	width: 100%;
+	padding: 20px 0px;
+	text-align: center;
+}
+.title h1{
+    text-align: center;
+    font-size: 85px;
+    line-height: 51px;
+    font-weight: 500;
+    padding: 20px 0px;
+    letter-spacing: 1px;
+}
+.title p{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.header{
+	width: 100%;
+	height: 100vh;
+	background: url("../images/banner.png") center top, no-repeat;
+	background-size: cover;
+}
+.header .logo{
+	text-align: center;
+	padding: 20px 0px 10px;
+}
+.header .logo img{
+	width: 180px;
+}
+.header .nav{
+	width: 100%;
+	text-align: center;
+	position: relative;
+	left: 27%;
+}
+.header .nav li{
+	list-style: none;
+	display: inline-block;
+	padding: 14px 25px 0px;
+}
+.header .nav li:hover{
+	font-weight: 600;
+}
+.header .nav li a{
+	display: block;
+    color: white;
+    font-size: 18px;
+}
+
+.header .title h1{
+    font-size: 200px;
+    line-height: 150px;
+    padding: 130px 0px 0px;
+    color: white;
+}
+.header .title p{
+    color: white;
+}
+.header .title a{
+	display: inline-block;
+}
+.header .title .btn-success{
+	background: white;
+    color: red;
+    border: 1px solid white;
+    border-radius: 50px;
+    padding: 8px 30px;
+    margin: 20px 0px;
+}
+.popular{
+	width: 100%;
+	padding: 20px 0px 20px;
+	background: url("../images/pbanner.png") center top, no-repeat;
+	background-size: cover; 
+}
+.popular .title h1{
+	color: #e8565e;
+}
+.popular .title p{
+	color: #333333;
+}
+.inner-feature{
+	width: 100%;
+	padding: 40px 50px 20px;
+	text-align: center;
+
+}
+.inner-feature .icon{
+	width: 80px;
+    height: 104px;
+    line-height: 94px;
+    margin-bottom: 25px;
+    position: relative; 
+}
+.inner-feature .icon img{
+	width: 226px;
+    height: 220px;
+    position: absolute;
+	color: #008ed6;
+}
+.inner-feature h4{
+	font-size: 45px;
+    font-weight: 500;
+    line-height: 55px;
+    margin-top: 120px;
+	color: #e8565e;
+	text-transform: capitalize;	 
+}
+.inner-feature p{
+	font-size: 16px;
+	font-weight: 400;
+	color: #333333;
+	
+}
+.statistic{
+	width: 100%;
+	padding: 20px 0px 120px;
+	background: url("../images/sbanner.png") center top, no-repeat;
+	background-size: cover; 
+}
+.statistic .title h1{
+	color: #fff;
+}
+.statistic .title p{
+	color: #fff;
+}
+.statistic .inner-feature{
+	padding: 40px;
+	width: 55%;
+	text-align: center;
+	border: 3px dashed #fff;
+	border-radius: 100%;
+	margin: 80px 0px 0px 80px;
+}
+.statistic .inner-feature h1{
+	font-size: 70px;
+	font-weight: 300;
+	color: #fff;
+}
+.statistic .inner-feature p{
+	font-size: 25px;
+	line-height: 32px;
+	font-weight: 500;
+	letter-spacing: 2px;
+	color: #fff;
+}
+/*our menu section starts here*/
+.our-menu{
+	width: 100%;
+	padding: 80px 0px;
+	background: #eee6cc;
+}
+.our-menu .title{
+	padding: 0px;
+}
+.our-menu .title h1{
+	color: #e8565e;
+
+}
+.our-menu .title p{
+	color: #333333;
+	margin-bottom: 60px;
+}
+.our-menu .card{
+	border: none;
+	background: #eee6cc;
+
+}
+.our-menu .card .card-title {
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: 400;
+    color: #e8565e;
+}
+.our-menu .card-text:last-child {
+    font-size: 15px;
+    font-weight: 500;
+}
+.our-menu .img-fluid {
+    max-width: 40%;
+    height: auto;
+    position: relative;
+    top: 20%;
+    left: 50%;
+}
+.delicious{
+	width: 100%;
+	padding: 0px;
+	background: #faf5e4;
+}
+.delicious img{
+	position: relative;
+    top: 0%;
+    right: 18%;
+    height: 730px;
+    width: 700px;
+}
+.delicious .title{
+    padding: 240px 0px;
+    text-align: left;
+}
+.delicious .title h1{
+    font-size: 100px;
+    text-align: left;
+    color: #eb4d55;
+}
+.delicious .title p{
+    text-align: left;
+    padding-left: 23px;
+    letter-spacing: 1px;
+}
+.delicious .title a{
+	border-radius: 49px;
+    padding: 10px 45px;
+    background: #e8565e;
+    margin-left: 22px;
+}
+
+.package-menu{
+	width: 100%;
+	padding: 25px 0px 80px;
+	background: #eee6cc;
+}
+.package-menu .title h1{
+	color: #e8565e;
+
+}
+.package-menu .title p{
+	color: #333333;
+	margin-bottom: 60px;
+}
+.package-menu .card{
+	background: #faf5e4;
+	position: relative;
+	padding: 30px 0px;
+}
+.package-menu .card .card-img-top {
+    width: 25%;
+    position: absolute;
+    top: 9%;
+    left: 39%;
+}
+.package-menu .card .card-body{
+	padding: 140px 0px 35px;
+    text-align: center;
+}
+.package-menu .card .card-body .card-title{
+	font-size: 35px;
+    color: #e8565e;
+}
+.package-menu .card .card-body .card-text{
+	font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #333333;
+}
+.package-menu .card .card-body .btn-danger{
+	border-radius: 50px;
+    padding: 7px 79px;
+    background: #e8565e;
+}
+.footer{
+	width: 100%;
+	padding: 70px 0px;
+    background: #2a2a2a;
+}
+.inner-text{
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 400;
+	color: #fff;
+}
+.footer h1{
+	font-size: 38px;
+	line-height: 48px;
+	font-weight: 400;
+	color: #fff;
+	margin: 0px;
+}
+.footer h4{
+	font-size: 30px;
+	line-height: 40px;
+	font-weight: 400;
+	color: #fff;
+	margin: 0px;
+}
+.footer .widget{
+    display: block;
+    padding: 0px;
+}
+.footer .widget .fa{
+    color: #000;
+    background: #fff;
+    border: 1px solid #000;
+    border-radius: 100%;
+    padding: 5px 7px;
+    width: 12%;
+    margin: 0px 10px 7px 1px;
+}
+.footer .widget li{
+	list-style: none;
+	display: block;
+	color: #fff;
+
+}
+.footer .widget li a{
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 400;
+	color: #fff;
+	
+}
+.footer .widget li a:hover, .footer .widget li a:focus{
+	font-weight: 700;
+	transition: 1s;
+}
+

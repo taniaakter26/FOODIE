@@ -1,0 +1,528 @@
+
+/* low resulation mobile phone--glaxy fold */
+@media screen and (max-width: 319px){
+/* small-device code start */
+.header .logo img {
+    width: 140px;
+}
+.header .nav {
+    left: -7%;
+}
+.header .nav li {
+    padding: 10px 13px 0px;
+}
+.header .nav li a {
+    font-size: 15px;
+    font-weight: 700;
+}
+.header .title {
+    padding: 57px 0px;
+}
+.header .title h1 {
+    font-size: 80px;
+    line-height: 79px;
+    padding: 0px 0px 0px;
+}
+.header .title p {
+    font-size: 13px;
+    font-weight: 400;
+    padding: 0px 10px 0px;
+    line-height: 24px;
+}
+.header .title .btn-success {
+    padding: 6px 10px;
+    margin: 9px 0px;
+}
+.popular .title h1 {
+    font-size: 60px;
+    padding: 20px 0px 10px;
+}
+.popular .title p {
+    font-size: 13px;
+    line-height: 23px;
+}
+.popular .inner-feature {
+    padding: 10px 6px 20px;
+}
+.popular .inner-feature .icon img {
+    width: 160px;
+    height: 155px;
+}
+.popular .inner-feature h4 {
+    font-size: 30px;
+    line-height: 40px;
+    margin-top: 60px;
+}
+.popular .inner-feature p {
+    font-size: 13px;
+    line-height: 23px;
+}
+.statistic .title h1 {
+    font-size: 55px;
+    padding: 20px 0px 10px;
+}
+.statistic .title p {
+    font-size: 13px;
+    line-height: 23px;
+}
+.statistic .inner-feature {
+    padding: 8px 0px;
+    width: 48%;
+    margin: 30px 0px 0px 80px;
+}
+.statistic .inner-feature h1 {
+    font-size: 37px;
+}
+.statistic .inner-feature p {
+    font-size: 17px;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+.our-menu .title h1 {
+    font-size: 60px;
+    padding: 20px 0px 10px;
+}
+.our-menu .title p {
+    font-size: 13px;
+    line-height: 23px;
+}
+.our-menu .img-fluid {
+    top: 0%;
+    left: 35%;
+}
+.our-menu .card .card-title {
+    font-size: 33px;
+    line-height: 43px;
+    text-align: center;
+}
+.our-menu .card-text:last-child {
+    font-size: 13px;
+    text-align: center;
+}
+.delicious img {
+    right: 6%;
+    height: 360px;
+    width: 404px;
+}
+.delicious .title {
+    padding: 75px 0px 85px;
+    text-align: center;
+}
+.delicious .title h1 {
+    font-size: 55px;
+    text-align: center;
+    padding: 10px 0px 8px;
+}
+.delicious .title p {
+    text-align: center;
+    font-size: 13px;
+    line-height: 23px;
+    padding-left: 0px;
+}
+.delicious .title a {
+    border-radius: 50px;
+    padding: 8px 16px;
+    margin-left: 0px; 
+}
+.package-menu .title {
+    padding: 26px 0px 0px;
+}
+.package-menu .title h1 {
+    font-size: 60px;
+    padding: 20px 0px 10px;
+}
+.package-menu .title p {
+    font-size: 13px;
+    line-height: 23px;
+}
+.package-menu .card {
+    padding: 0px;
+    margin: 8px;
+}
+.footer {
+    text-align: center;
+}
+.footer h1 {
+    margin: 0px 0px 5px;
+    letter-spacing: 2px;
+}
+.footer .inner-text {
+    font-size: 14px;
+    line-height: 24px;
+    padding-bottom: 15px;
+}
+.footer h4 {
+    letter-spacing: 2px;
+    margin: 17px 0px 5px;
+}
+.footer .widget li a {
+    font-size: 13px;
+}
+.footer .widget .fa {
+    padding: 9px 10px;
+    width: 13%;
+    margin: 0px 10px 7px 1px;
+    font-weight: 800;
+}
+.footer .widget .fa-twitter {
+    margin-left: -14px;
+}
+/* small-device code end */
+}
+
+/* most of the smartphone devices */
+@media (min-width: 320px) and (max-width: 480px){
+/* maximum device code start */
+.header .logo img {
+    width: 140px;
+}
+.header .nav {
+    left: 0%;
+}
+.header .nav li {
+    padding: 10px 5px 0px;
+}
+.header .nav li a {
+    font-size: 15px;
+    font-weight: 700;
+}
+.header .title {
+    padding: 90px 0px;
+}
+.header .title h1 {
+    font-size: 95px;
+    line-height: 105px;
+    padding: 45px 0px 0px;
+}
+.header .title p {
+    font-size: 13px;
+    font-weight: 400;
+    padding: 0px 10px 0px;
+    line-height: 24px;
+}
+.header .title .btn-success {
+    padding: 6px 10px;
+    margin: 9px 0px;
+}
+.popular .title h1 {
+    font-size: 60px;
+    padding: 20px 0px 10px;
+}
+.popular .title p {
+    font-size: 13px;
+    line-height: 23px;
+}
+.popular .inner-feature {
+    padding: 10px 30px 20px;
+}
+.popular .inner-feature .icon {
+    width: 105px;
+    height: 104px;
+}
+.popular .inner-feature .icon img {
+    width: 180px;
+    height: 175px;
+}
+.popular .inner-feature h4 {
+    font-size: 35px;
+    line-height: 45px;
+    margin-top: 80px;
+}
+.popular .inner-feature p {
+    font-size: 13px;
+    line-height: 23px;
+}
+.statistic .title h1 {
+    font-size: 60px;
+    padding: 20px 0px 10px;
+}
+.statistic .title p {
+    font-size: 13px;
+    line-height: 23px;
+}
+.statistic .inner-feature {
+    padding: 22px;
+    width: 47%;
+    margin: 30px 0px 0px 80px;
+}
+.statistic .inner-feature h1 {
+    font-size: 50px;
+}
+.statistic .inner-feature p {
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+.our-menu .title h1 {
+    font-size: 60px;
+    padding: 20px 0px 10px;
+}
+.our-menu .title p {
+    font-size: 13px;
+    line-height: 23px;
+}
+.our-menu .img-fluid {
+    top: 0%;
+    left: 35%;
+}
+.our-menu .card .card-title {
+    font-size: 33px;
+    line-height: 43px;
+    text-align: center;
+}
+.our-menu .card-text:last-child {
+    font-size: 13px;
+    text-align: center;
+}
+.delicious img {
+    right: 6%;
+    height: 370px;
+    width: 424px;
+}
+.delicious .title {
+    padding: 75px 0px 85px;
+    text-align: center;
+}
+.delicious .title h1 {
+    font-size: 55px;
+    text-align: center;
+    padding: 10px 0px 8px;
+}
+.delicious .title p {
+    text-align: center;
+    font-size: 13px;
+    line-height: 23px;
+    padding-left: 0px;
+}
+.delicious .title a {
+    border-radius: 50px;
+    padding: 8px 16px;
+    margin-left: 0px; 
+}
+.package-menu .title {
+    padding: 26px 0px 0px;
+}
+.package-menu .title h1 {
+    font-size: 60px;
+    padding: 20px 0px 10px;
+}
+.package-menu .title p {
+    font-size: 13px;
+    line-height: 23px;
+}
+.package-menu .card {
+    padding: 0px;
+    margin: 8px;
+}
+.footer {
+    text-align: center;
+}
+.footer h1 {
+    margin: 0px 0px 5px;
+    letter-spacing: 2px;
+}
+.footer .inner-text {
+    font-size: 14px;
+    line-height: 24px;
+    padding-bottom: 15px;
+}
+.footer h4 {
+    letter-spacing: 2px;
+    margin: 17px 0px 5px;
+}
+.footer .widget li a {
+    font-size: 13px;
+}
+.footer .widget .fa {
+    padding: 9px 10px;
+    width: 10%;
+    margin: 0px 10px 7px 1px;
+    font-weight: 800;
+}
+.footer .widget .fa-twitter {
+    margin-left: -14px;
+}
+/*maximum device code end*/
+}
+
+/* mobile phone and low resulation tablet */
+@media (min-width: 481px) and (max-width: 767px){
+/* mobile device code starts */
+.header .logo img {
+    width: 140px;
+}
+.header .nav {
+    left: 8%;
+}
+.header .nav li {
+    padding: 10px 11px 0px;
+}
+.header .nav li a {
+    font-size: 16px;
+    font-weight: 700;
+}
+.header .title {
+    padding: 90px 0px;
+}
+.header .title h1 {
+    font-size: 100px;
+    line-height: 110px;
+    padding: 45px 0px 0px;
+}
+.header .title p {
+    font-size: 14px;
+    font-weight: 400;
+    padding: 0px 10px 0px;
+    line-height: 24px;
+}
+.header .title .btn-success {
+    padding: 7px 12px;
+    margin: 9px 0px;
+}
+.popular .title h1 {
+    font-size: 65px;
+    padding: 20px 0px 10px;
+}
+.popular .title p {
+    font-size: 15px;
+    line-height: 25px;
+}
+.popular .inner-feature {
+    padding: 10px 30px 20px;
+}
+.popular .inner-feature .icon img {
+    width: 180px;
+    height: 175px;
+    position: absolute;
+    left: 169%;
+}
+.popular .inner-feature h4 {
+    font-size: 35px;
+    line-height: 45px;
+    margin-top: 80px;
+}
+.popular .inner-feature p {
+    font-size: 13px;
+    line-height: 23px;
+}
+.statistic .title h1 {
+    font-size: 65px;
+    padding: 20px 0px 10px;
+}
+.statistic .title p {
+    font-size: 15px;
+    line-height: 25px;
+}
+.statistic .inner-feature {
+    padding: 35px;
+    width: 40%;
+    margin: 30px 0px 0px 156px;
+}
+.statistic .inner-feature h1 {
+    font-size: 50px;
+}
+.statistic .inner-feature p {
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+.our-menu .title h1 {
+    font-size: 65px;
+    padding: 20px 0px 10px;
+}
+.our-menu .title p {
+    font-size: 15px;
+    line-height: 25px;
+}
+.our-menu .img-fluid {
+    top: 0%;
+    left: 41%;
+}
+.our-menu .card .card-title {
+    font-size: 33px;
+    line-height: 43px;
+    text-align: center;
+}
+.our-menu .card-text:last-child {
+    font-size: 13px;
+    text-align: center;
+}
+.delicious img {
+    right: 6%;
+    height: 435px;
+    width: 558px;
+}
+.delicious .title {
+    padding: 75px 0px 85px;
+    text-align: center;
+}
+.delicious .title h1 {
+    font-size: 60px;
+    text-align: center;
+    padding: 10px 0px 8px;
+}
+.delicious .title p {
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    padding-left: 0px;
+}
+.delicious .title a {
+    border-radius: 50px;
+    padding: 8px 16px;
+    margin-left: 0px; 
+}
+.package-menu .title {
+    padding: 26px 0px 0px;
+}
+.package-menu .title h1 {
+    font-size: 60px;
+    padding: 20px 0px 10px;
+}
+.package-menu .title p {
+    font-size: 13px;
+    line-height: 23px;
+}
+.package-menu .card {
+    padding: 0px;
+    margin: 8px;
+}
+.package-menu .card .card-body {
+    padding: 175px 0px 35px;
+}
+.footer {
+    text-align: center;
+}
+.footer h1 {
+    margin: 0px 0px 5px;
+    letter-spacing: 2px;
+}
+.footer .inner-text {
+    font-size: 14px;
+    line-height: 24px;
+    padding-bottom: 15px;
+}
+.footer h4 {
+    letter-spacing: 2px;
+    margin: 17px 0px 5px;
+}
+.footer .widget li a {
+    font-size: 15px;
+}
+.footer .widget .fa {
+    padding: 9px 10px;
+    width: 8%;
+    margin: 0px 10px 7px 1px;
+    font-weight: 800;
+}
+.footer .widget .fa-twitter {
+    margin-left: -14px;
+}
+/* mobile device code end */
+}
+
+/* tablet, notebook */
+@media (min-width: 768px) and (max-width: 1024px){
+/* tablet device code start*/
+/*tablet device code end*/
+  }
